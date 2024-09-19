@@ -2,7 +2,7 @@
 
 A simple command-line calculator application written in Dart.
 
-The aim of this project is to wor extensively with Dart's features, including classes, methods, and unit testing.
+The aim of this project is to work extensively with Dart's features, including classes, methods, and unit testing.
 
 ## Project Structure
 
